@@ -42,7 +42,7 @@
 		49736EF21FCA1ED00053D6F6 = {
 			isa = PBXGroup;
 			children = (
-				49736EFD1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers */,
+				49736EFD1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers */,
 				49736EFC1FCA1ED00053D6F6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		49736EFD1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers */ = {
+		49736EFD1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers */ = {
 			isa = PBXGroup;
 			children = (
 				49736F111FCB5EBB0053D6F6 /* Helpers.swift */,
@@ -67,7 +67,7 @@
 				49736F071FCA1ED00053D6F6 /* LaunchScreen.storyboard */,
 				49736F0A1FCA1ED00053D6F6 /* Info.plist */,
 			);
-			path = Spalah_hw6_GestureRecognizers;
+			path = Spalah_hw16_GestureRecognizers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
