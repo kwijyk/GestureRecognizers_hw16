@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		49736EFB1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spalah_hw6_GestureRecognizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49736EFB1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spalah_hw16_GestureRecognizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49736EFE1FCA1ED00053D6F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49736F001FCA1ED00053D6F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		49736F031FCA1ED00053D6F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		49736EFC1FCA1ED00053D6F6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				49736EFB1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers.app */,
+				49736EFB1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		49736EFA1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers */ = {
+		49736EFA1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 49736F0D1FCA1ED00053D6F6 /* Build configuration list for PBXNativeTarget "Spalah_hw6_GestureRecognizers" */;
+			buildConfigurationList = 49736F0D1FCA1ED00053D6F6 /* Build configuration list for PBXNativeTarget "Spalah_hw16_GestureRecognizers" */;
 			buildPhases = (
 				49736EF71FCA1ED00053D6F6 /* Sources */,
 				49736EF81FCA1ED00053D6F6 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = Spalah_hw6_GestureRecognizers;
+			name = Spalah_hw16_GestureRecognizers;
 			productName = Spalah_hw6_GestureRecognizers;
-			productReference = 49736EFB1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers.app */;
+			productReference = 49736EFB1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -106,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 49736EF61FCA1ED00053D6F6 /* Build configuration list for PBXProject "Spalah_hw6_GestureRecognizers" */;
+			buildConfigurationList = 49736EF61FCA1ED00053D6F6 /* Build configuration list for PBXProject "Spalah_hw16_GestureRecognizers" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				49736EFA1FCA1ED00053D6F6 /* Spalah_hw6_GestureRecognizers */,
+				49736EFA1FCA1ED00053D6F6 /* Spalah_hw16_GestureRecognizers */,
 			);
 		};
 /* End PBXProject section */
@@ -284,7 +284,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FX7KZ75KQ4;
-				INFOPLIST_FILE = Spalah_hw6_GestureRecognizers/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Spalah_hw16_GestureRecognizers/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sergeygaponov.Spalah-hw6-GestureRecognizers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,7 +299,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FX7KZ75KQ4;
-				INFOPLIST_FILE = Spalah_hw6_GestureRecognizers/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Spalah_hw16_GestureRecognizers/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sergeygaponov.Spalah-hw6-GestureRecognizers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -311,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		49736EF61FCA1ED00053D6F6 /* Build configuration list for PBXProject "Spalah_hw6_GestureRecognizers" */ = {
+		49736EF61FCA1ED00053D6F6 /* Build configuration list for PBXProject "Spalah_hw16_GestureRecognizers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				49736F0B1FCA1ED00053D6F6 /* Debug */,
@@ -320,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		49736F0D1FCA1ED00053D6F6 /* Build configuration list for PBXNativeTarget "Spalah_hw6_GestureRecognizers" */ = {
+		49736F0D1FCA1ED00053D6F6 /* Build configuration list for PBXNativeTarget "Spalah_hw16_GestureRecognizers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				49736F0E1FCA1ED00053D6F6 /* Debug */,
